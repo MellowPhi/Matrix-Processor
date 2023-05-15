@@ -1,6 +1,11 @@
 # Matrix-Processor
 
 A project to compute matrices of any size.
+Able to compute determinant of a matrix. 
+Multiply and add matrices.
+
+## Requirement
+Requires python 3.5 
 
 ### Available Functions 
 1. Add matrices
