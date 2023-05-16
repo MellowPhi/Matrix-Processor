@@ -7,6 +7,9 @@ Multiply and add matrices.
 ## Requirement
 Requires python 3.5 
 
+### How to run this
+Simply clone or download the script and run it.
+
 ### Available Functions 
 1. Add matrices
 2. Multiply matrix by a constant
